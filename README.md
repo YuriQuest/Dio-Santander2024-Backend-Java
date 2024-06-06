@@ -1,1 +1,1 @@
-# Projetos referentes a trilha de estudos do bootcamp de Java para Back-end
+# Projetos referentes a aulas estudos dos bootcamps/cursos da DIO
