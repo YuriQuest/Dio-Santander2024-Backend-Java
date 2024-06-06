@@ -1,4 +1,4 @@
-# Conta Banco - Trilha Java Básico
+# Conta Banco - Terminal - Trilha Java Básico
 https://www.dio.me/users/yurimarques_el
 ## Desafio de Sintaxe
 Exemplo de entrada de dados
